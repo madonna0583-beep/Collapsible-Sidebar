@@ -1,4 +1,4 @@
-* {
+*  {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -209,4 +209,3 @@ body {
   .nav-text { display: none; }
   .logo-text { display: none; }
 }
-
